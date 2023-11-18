@@ -1,0 +1,11 @@
+node_modules
+.next
+.husky
+coverage
+.prettierignore
+.stylelintignore
+.eslintignore
+package-lock.json
+public
+next-env.d.ts
+next.config.ts
